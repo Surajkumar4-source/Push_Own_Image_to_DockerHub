@@ -138,3 +138,59 @@ docker push your_dockerhub_username/custom-nginx:latest
 
 
 
+
+
+<br>
+<br>
+<br>
+
+
+
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/1.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/2.png)
+
+
+3.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/3.png)
+
+<br>
+<br>
+
+
+4.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/4.png)
+
+<br>
+<br>
+
+5.
+<br>
+<br>
+
+## -------We pushed our image to the DockerHub-------------
+
+![Alt text for image](screenshots/5.png)
+
+<br>
+<br>
+
